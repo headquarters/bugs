@@ -1,0 +1,16 @@
+{
+  "name": "ipc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parent.js",
+  "scripts": {
+    "start": "node parent.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "r2": "^2.0.1",
+    "request": "^2.88.0"
+  }
+}
