@@ -1,6 +1,6 @@
 # Cached missing file at CDN
 
-See [this blog post](https://www.michaelehead.com/2020/01/08/bug-case-studies.html) for some more background.
+See [this blog post](https://www.michaelehead.com/2020/01/08/bug-case-studies.html#cdn-caching-a-missing-file) for some more background.
 
 ## Build the container
 `docker build -t <name> .`
